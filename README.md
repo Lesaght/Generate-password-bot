@@ -31,7 +31,7 @@
 4. **Замените `TELEGRAM_BOT_TOKEN` в файле `password_bot.py` на ваш токен:**
 
    ```python
-   BOT_TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
+   BOT_TOKEN = 'your_bot_token'
    ```
 
 5. **Запустите бота:**
